@@ -4,7 +4,7 @@ import streamlit as st
 
 # ホットペッパーAPIのURLとAPIキー
 url = "http://webservice.recruit.co.jp/hotpepper/gourmet/v1/"
-key = "6676e8e3065e6b4f"
+key = ""
 
 # APIに渡すパラメータ
 params = {
